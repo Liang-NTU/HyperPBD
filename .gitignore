@@ -1,0 +1,19 @@
+# Large files
+*.pth
+*.pt
+*.ckpt
+*.bin
+
+# Data
+# data/
+# datasets/
+
+# Checkpoints
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
